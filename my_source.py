@@ -1,6 +1,6 @@
 """Contains code under test for solution_ci."""
 
-def add_func(a, var_two):
+def add_func(a_test, var_two):
     """
     Add two variables.
 
@@ -9,4 +9,4 @@ def add_func(a, var_two):
         var_two: second variable
 
     """
-    return a + var_two
+    return a_test + var_two
